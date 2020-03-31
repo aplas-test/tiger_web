@@ -1,20 +1,24 @@
 {
-  "id": "tiger_web",
-  "name": "Tiger Web",
-  "categoryId": "core",
-  "description": "Focused foreground support",
-  "investment_24m": "151",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "97",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "3",
-  "deployment_date": "30/10/12",
-  "end_of_maintenance": "27/3/17",
-  "department": "Legal",
-  "status": "Decomissioned",
-  "end_of_life": "20/12/19",
-  "months_to_renew_support": "16",
-  "sme_email": "Borg.McKinless@memento.net.au",
-  "investment_number": "51"
+  "applications": [
+    {
+      "id": "tiger_web",
+      "name": "Tiger Web",
+      "categoryId": "core",
+      "description": "Focused foreground support",
+      "investment_24m": "151",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "97",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "3",
+      "deployment_date": "30/10/12",
+      "end_of_maintenance": "27/3/17",
+      "department": "Legal",
+      "status": "Decomissioned",
+      "end_of_life": "20/12/19",
+      "months_to_renew_support": "16",
+      "sme_email": "Borg.McKinless@memento.net.au",
+      "investment_number": "51"
+    }
+  ]
 }
